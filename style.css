@@ -1,0 +1,43 @@
+/* import a custom font from fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: url('email-pattern.png'); 
+}
+.main{
+	width: 400px;
+	height: 175px;
+    background-color: #ccc;
+    padding: 30px;
+    margin: 100px auto;
+    position: relative;
+}
+
+.badge{
+	width: 96px;
+	background-color: #fa5252;
+	color: white;
+	padding: 5px 10px;
+	font-family: sans-serif;
+	font-weight: bold;
+	position: absolute;
+	text-align: center;
+	top: -15px;
+    left: 38%;
+}
+
+.clock{
+	padding-top: 20px;
+    background-color: #efefef;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 55px;
+    height: 100%;
+}
