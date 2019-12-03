@@ -1,2 +1,2 @@
 
-![]{sample.gif}
+![](sample.gif)
