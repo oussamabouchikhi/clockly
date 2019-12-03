@@ -1,2 +1,2 @@
-"# clockly" 
+
 ![]{sample.gif}
