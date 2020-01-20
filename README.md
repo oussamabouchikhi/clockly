@@ -1,4 +1,5 @@
 # Clockly
+A simple digital clock for improving my Vanilla Javascript
 ![](sample.gif)<br>
 
 ## Contributing
