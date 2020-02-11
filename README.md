@@ -1,4 +1,5 @@
 # Clockly
+![](https://img.shields.io/badge/license-MIT-green)<br><br>
 A simple digital clock for improving my Vanilla Javascript
 ![](sample.gif)<br>
 
