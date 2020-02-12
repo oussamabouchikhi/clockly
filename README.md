@@ -10,3 +10,4 @@ Pull requests are welcomed, feel free to fork or clone this repo.
  - HTML
  - CSS
  - Javascript
+ - [Atom](https://atom.io/)
