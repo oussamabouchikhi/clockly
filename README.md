@@ -6,8 +6,8 @@ A simple digital clock for improving my Vanilla Javascript
 ## Contributing
 Pull requests are welcomed, feel free to fork or clone this repo.
 
-## Technologies
+## Tools & Languages
  - HTML
  - CSS
  - Javascript
- - [Atom](https://atom.io/)
+ - [Atom.io](https://atom.io/)
